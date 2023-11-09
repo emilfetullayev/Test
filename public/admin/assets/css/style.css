@@ -1,0 +1,15 @@
+body {
+    background-color: #fafafa;
+}
+
+.container {
+    margin: 150px auto;
+}
+
+input[lang="ru"] {
+    display: none
+}
+
+label[lang="ru"] {
+    display: none
+}
